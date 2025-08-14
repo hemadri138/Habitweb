@@ -1,0 +1,19 @@
+<svg width="280" height="560" viewBox="0 0 280 560" xmlns="http://www.w3.org/2000/svg">
+  <rect width="280" height="560" fill="#6366f1"/>
+  <rect x="20" y="60" width="240" height="40" rx="8" fill="#8b5cf6"/>
+  <rect x="20" y="120" width="240" height="40" rx="8" fill="#8b5cf6"/>
+  <rect x="20" y="180" width="240" height="40" rx="8" fill="#8b5cf6"/>
+  <rect x="20" y="240" width="240" height="40" rx="8" fill="#8b5cf6"/>
+  <rect x="20" y="300" width="240" height="40" rx="8" fill="#8b5cf6"/>
+  <rect x="20" y="360" width="240" height="40" rx="8" fill="#8b5cf6"/>
+  <rect x="20" y="420" width="240" height="40" rx="8" fill="#8b5cf6"/>
+  <rect x="20" y="480" width="240" height="40" rx="8" fill="#8b5cf6"/>
+  <text x="140" y="85" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">Habituate</text>
+  <text x="140" y="145" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">Track your habits</text>
+  <text x="140" y="205" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">View progress</text>
+  <text x="140" y="265" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">Set reminders</text>
+  <text x="140" y="325" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">Check streaks</text>
+  <text x="140" y="385" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">Analytics</text>
+  <text x="140" y="445" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">Settings</text>
+  <text x="140" y="505" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">Profile</text>
+</svg> 
