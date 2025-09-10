@@ -8,7 +8,7 @@
   <rect x="20" y="360" width="240" height="40" rx="8" fill="#8b5cf6"/>
   <rect x="20" y="420" width="240" height="40" rx="8" fill="#8b5cf6"/>
   <rect x="20" y="480" width="240" height="40" rx="8" fill="#8b5cf6"/>
-  <text x="140" y="85" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">Habituate</text>
+  <text x="140" y="85" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">Habituated</text>
   <text x="140" y="145" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">Track your habits</text>
   <text x="140" y="205" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">View progress</text>
   <text x="140" y="265" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">Set reminders</text>

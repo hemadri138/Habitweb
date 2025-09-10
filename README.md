@@ -1,6 +1,6 @@
-# Habituate Landing Page
+# Habituated Landing Page
 
-A clean, modern, and responsive landing page for the Habituate mobile app - a habit tracker designed to help users build and maintain life-changing habits.
+A clean, modern, and responsive landing page for the Habituated mobile app - a habit tracker designed to help users build and maintain life-changing habits.
 
 ## 🚀 Features
 
@@ -53,7 +53,7 @@ The landing page uses a modern color scheme with purple/indigo accents:
 
 ### Branding
 - **Logo**: Route icon (Font Awesome)
-- **App Name**: Habituate
+- **App Name**: Habituated
 - **Tagline**: "Track. Improve. Achieve."
 
 ## 📱 Sections
@@ -176,8 +176,8 @@ For questions or customization requests:
 
 ## 📄 License
 
-This project is created for the Habituate app. Feel free to customize and use for your own projects.
+This project is created for the Habituated app. Feel free to customize and use for your own projects.
 
 ---
 
-**Built with ❤️ for Habituate** 
+**Built with ❤️ for Habituated** 
