@@ -11,6 +11,12 @@ body {
     color: #333;
     background-color: #ffffff;
 }
+.download {
+    background: url("assets/bgv.png") no-repeat center center;
+    background-size: cover;
+    padding: 80px 0;
+    color: #fff;
+}
 
 .container {
     max-width: 1200px;
@@ -76,12 +82,10 @@ body {
 
 /* Hero Section */
 .hero {
-    padding: 120px 0 80px;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    color: white;
-    min-height: 100vh;
-    display: flex;
-    align-items: center;
+    padding: 0;
+    background: url('assets/bgv.png') center center no-repeat;
+    background-size: contain;
+    min-height: clamp(320px, 60vw, 720px);
 }
 
 .hero-content {
